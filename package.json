@@ -1,0 +1,22 @@
+{
+  "name": "hapi-dev",
+  "version": "1.0.0",
+  "description": "Testing Hapi stuffs",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaurg/hapi-dev.git"
+  },
+  "author": "Italo A.",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaurg/hapi-dev/issues"
+  },
+  "homepage": "https://github.com/iaurg/hapi-dev#readme",
+  "dependencies": {
+    "@hapi/hapi": "^20.2.2"
+  }
+}
